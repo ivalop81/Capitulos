@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Project caso de estudio.svg"
+   inkscape:export-filename="C:\Users\lopezi\Dropbox\Tesis-borradores\Libro de tesis\Parte final\Capitulos\Project caso de estudio1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72164575"
+     inkscape:cx="57.495635"
+     inkscape:cy="453.79851"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ff00;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.29704335;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="637.14581"
+       height="484.58862"
+       x="42.773247"
+       y="253.7366"
+       ry="4.2016311"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.17537689px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="198.04997"
+       y="278.19913"
+       id="text4138"
+       sodipodi:linespacing="125%"
+       transform="scale(0.91548431,1.092318)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="198.04997"
+         y="278.19913"
+         style="font-size:27.5px">Dominio de aplicaciones web</tspan></text>
+    <rect
+       style="fill:#000041;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.32934299;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4142"
+       width="574.25635"
+       height="358.54205"
+       x="81.241776"
+       y="330.9483"
+       ry="4.9340601"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.11099052px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="165.50026"
+       y="324.38516"
+       id="text4144"
+       sodipodi:linespacing="125%"
+       transform="scale(0.88232198,1.1333731)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="165.50026"
+         y="324.38516"
+         style="font-size:27.5px">Sistema de administracion de personas</tspan><tspan
+         sodipodi:role="line"
+         x="165.50026"
+         y="358.76016"
+         style="font-size:27.5px"
+         id="tspan4173">               (Person Manager)</tspan></text>
+    <rect
+       style="fill:#ff00ff;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.34245235;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4148"
+       width="219.40575"
+       height="229.76471"
+       x="126.47965"
+       y="420.56589"
+       ry="5.47645"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.34834099px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="267.58984"
+       y="406.82956"
+       id="text4150"
+       sodipodi:linespacing="125%"
+       transform="scale(0.80820706,1.2373067)"><tspan
+         sodipodi:role="line"
+         id="tspan4152"
+         x="267.58984"
+         y="406.82956"
+         style="font-size:27.5px;text-align:center;text-anchor:middle" /></text>
+    <rect
+       ry="5.47645"
+       y="421.09705"
+       x="388.92471"
+       height="229.76471"
+       width="219.40575"
+       id="rect4168"
+       style="fill:#0000ff;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.34245235;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="899.42218"
+       y="237.09821"
+       id="text4164"
+       sodipodi:linespacing="125%"
+       transform="scale(0.43766924,2.2848305)"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="899.42218"
+         y="237.09821"
+         style="font-size:27.5px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="410.6564"
+       y="498.85941"
+       id="text4172"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4174"
+         x="410.6564"
+         y="498.85941">MoWebA con </tspan><tspan
+         sodipodi:role="line"
+         x="410.6564"
+         y="533.23444"
+         id="tspan4176">extensiones </tspan><tspan
+         sodipodi:role="line"
+         x="410.6564"
+         y="567.60944"
+         id="tspan4178">RIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="157.29456"
+       y="499.13998"
+       id="text4180"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="157.29456"
+         y="499.13998"
+         id="tspan4184">MoWebA sin</tspan><tspan
+         sodipodi:role="line"
+         x="157.29456"
+         y="533.51495"
+         id="tspan4181">extensiones</tspan></text>
+    <rect
+       ry="1.2262478"
+       y="770.26556"
+       x="457.26715"
+       height="51.447281"
+       width="65.374031"
+       id="rect4188"
+       style="fill:#ff00ff;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="386.04153"
+       y="784.5733"
+       id="text4190"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4192"
+         x="386.04153"
+         y="784.5733"
+         style="font-size:12.5px">Unidad de</tspan><tspan
+         sodipodi:role="line"
+         x="386.04153"
+         y="800.1983"
+         style="font-size:12.5px"
+         id="tspan4236"> analisis 1 </tspan><tspan
+         sodipodi:role="line"
+         x="386.04153"
+         y="815.8233"
+         style="font-size:12.5px"
+         id="tspan4185">  (UA1)</tspan></text>
+    <rect
+       style="fill:#0000ff;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4198"
+       width="65.374031"
+       height="51.447281"
+       x="617.57233"
+       y="770.82697"
+       ry="1.2262478"
+       inkscape:transform-center-x="321.42857"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4200"
+       y="784.01215"
+       x="540.15649"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="784.01215"
+         x="540.15649"
+         id="tspan4202"
+         sodipodi:role="line"
+         style="font-size:12.5px">Unidad de</tspan><tspan
+         y="799.63715"
+         x="540.15649"
+         sodipodi:role="line"
+         style="font-size:12.5px"
+         id="tspan4234"> analisis 2 </tspan><tspan
+         y="815.26215"
+         x="540.15649"
+         sodipodi:role="line"
+         style="font-size:12.5px"
+         id="tspan4187">  (UA2)</tspan></text>
+    <rect
+       style="fill:#000041;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4204"
+       width="65.374031"
+       height="51.447281"
+       x="309.79926"
+       y="770.75549"
+       ry="1.2262478"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.35982"
+       y="786.82202"
+       id="text4206"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="201.35982"
+         y="786.82202"
+         id="tspan4226">Caso de estudio</tspan><tspan
+         sodipodi:role="line"
+         x="201.35982"
+         y="802.44702"
+         id="tspan4240">único embebido</tspan></text>
+    <rect
+       ry="1.2262478"
+       y="770.43372"
+       x="128.12057"
+       height="51.447281"
+       width="65.374031"
+       id="rect4228"
+       style="fill:#00ff00;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.710594"
+       y="787.80188"
+       id="text4230"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4232"
+         x="62.710594"
+         y="787.80188">Contexto</tspan></text>
+    <rect
+       style="fill:#00ff00;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4175"
+       width="65.374031"
+       height="51.447281"
+       x="309.73416"
+       y="770.92365"
+       ry="1.2262478"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4177"
+       width="65.374031"
+       height="51.447281"
+       x="128.12057"
+       y="770.43372"
+       ry="1.2262478"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="405.65918"
+       y="801.51984"
+       id="text4181"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4183"
+         x="405.65918"
+         y="801.51984" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.99927"
+       y="630.21368"
+       id="text4269"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4271"
+         x="172.99927"
+         y="630.21368">Metodo A</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4273"
+       y="629.63965"
+       x="430.39325"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="629.63965"
+         x="430.39325"
+         id="tspan4275"
+         sodipodi:role="line">Metodo B</tspan></text>
+  </g>
+</svg>
