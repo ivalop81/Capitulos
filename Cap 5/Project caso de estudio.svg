@@ -28,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72164575"
-     inkscape:cx="57.495635"
-     inkscape:cy="453.79851"
+     inkscape:zoom="1.4432915"
+     inkscape:cx="382.9417"
+     inkscape:cy="653.55237"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -227,7 +227,7 @@
          x="386.04153"
          y="815.8233"
          style="font-size:12.5px"
-         id="tspan4185">  (UA1)</tspan></text>
+         id="tspan4185">  </tspan></text>
     <rect
        style="fill:#0000ff;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4198"
@@ -242,27 +242,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text4200"
-       y="784.01215"
-       x="540.15649"
+       y="785.39789"
+       x="539.46362"
        style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="784.01215"
-         x="540.15649"
+         y="785.39789"
+         x="539.46362"
          id="tspan4202"
          sodipodi:role="line"
          style="font-size:12.5px">Unidad de</tspan><tspan
-         y="799.63715"
-         x="540.15649"
+         y="801.02289"
+         x="539.46362"
          sodipodi:role="line"
          style="font-size:12.5px"
          id="tspan4234"> analisis 2 </tspan><tspan
-         y="815.26215"
-         x="540.15649"
+         y="816.64789"
+         x="539.46362"
          sodipodi:role="line"
          style="font-size:12.5px"
-         id="tspan4187">  (UA2)</tspan></text>
+         id="tspan4187">  </tspan></text>
     <rect
        style="fill:#000041;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4204"
@@ -276,20 +276,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="201.35982"
-       y="786.82202"
+       x="205.51698"
+       y="783.70416"
        id="text4206"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="201.35982"
-         y="786.82202"
-         id="tspan4226">Caso de estudio</tspan><tspan
+         x="205.51698"
+         y="783.70416"
+         id="tspan4240">Ilustración </tspan><tspan
          sodipodi:role="line"
-         x="201.35982"
-         y="802.44702"
-         id="tspan4240">único embebido</tspan></text>
+         x="205.51698"
+         y="799.32916"
+         id="tspan3380">comparativa </tspan><tspan
+         sodipodi:role="line"
+         x="205.51698"
+         y="814.95416"
+         id="tspan3382">de la propuesta</tspan></text>
     <rect
        ry="1.2262478"
        y="770.43372"
@@ -303,16 +307,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="62.710594"
-       y="787.80188"
+       x="62.017735"
+       y="784.33759"
        id="text4230"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4232"
-         x="62.710594"
-         y="787.80188">Contexto</tspan></text>
+         x="62.017735"
+         y="784.33759">Contexto</tspan></text>
     <rect
        style="fill:#00ff00;fill-opacity:0.21590911;fill-rule:nonzero;stroke:#000000;stroke-width:0.08845417;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4175"
