@@ -1,0 +1,4 @@
+Pendiente del cap 4.
+
+Cambiar el nombre de las pestañas del PIM de ejemplo para
+que coincida con el PIM
